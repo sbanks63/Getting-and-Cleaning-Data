@@ -95,4 +95,4 @@ sub_act_means <- mean_sd_data %>% group_by(subject, activity) %>% summarize_at(.
 
 
 ## Save tidy dataset to a file
-write.csv(sub_act_means, "final_dataset.csv")
+write.table(sub_act_means, "final_dataset.txt", row.name = FALSE)
