@@ -27,7 +27,6 @@ The data are comprised of a series of text files:
   - A file indicating the activity performed.
   - A 561-feature vector file with time and frequency domain variables.
   - 9 Inertial Signal files (not included in the project since they do not contain the mean and standard deviation measurements needed for the final data set)
-- 
 
 - Files for the "train" group including:
   - A file indicating the subject identifiers.
