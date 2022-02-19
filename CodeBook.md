@@ -61,7 +61,7 @@ The files were downloaded from the source and read into R in the following table
 | labels_test | "y_test.text" | 2947, 1 | activity designation (test set) |
 | labels_train | "y_train.text" | 7352, 1 | activity designation (train set) |
 | set_test | "X_test.txt" | 2947, 1 | set data (test set) |
-| set_train | "X_train.txt" | 7352, 1 set data (train set) |
+| set_train | "X_train.txt" | 7352, 1 | set data (train set) |
 | subject_test | "subject_test.txt" | 2947, 1 | subject designations (test set) |
 | subject_train | "subject_train.txt" | 7352, 1 | subject designations (train set) |
 
