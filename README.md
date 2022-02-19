@@ -1,12 +1,4 @@
----
-title: "README - Getting and Cleaning Data"
-author: "sbanks63"
-date: "2/19/2022"
-output: html_document
----
-
-# Getting-and-Cleaning-Data
-Getting and Cleaning Data final project
+# Getting and Cleaning Data
 
 ## Create a Tidy Dataset
 
